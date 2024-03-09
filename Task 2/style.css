@@ -98,7 +98,7 @@ nav {
 }
 
 .todo {
-    cursor: url("./images/quill.png"),auto;
+    cursor: url("images/quill.png")6 19,auto;
     display: flex;
     padding: 14px;
 }
